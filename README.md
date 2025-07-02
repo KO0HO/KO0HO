@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KO0HO
 - 👀 I’m interested in Statistic and Deep Learning
-- 🌱 I’m currently learning Spline and Quantile Regression
 - 💞️ I’m looking to collaborate on Inha Univ.
 - 📫 How to reach me rhdudgh2303@inha.edu
 
